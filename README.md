@@ -30,5 +30,4 @@ All the code is tested with the unittest module. The test for the classes are in
 
 ## Authors
 
-- ABel Berhanu - [Abinet](https://github.com/abela12)
-- Robel Amde - [Susinios](https://github.com/robel-ak)
+- Chelsea Chemweno - [Chelsea](https://github.com/ChelseaChemweno)
